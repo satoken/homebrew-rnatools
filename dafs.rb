@@ -3,7 +3,7 @@ class Dafs < Formula
   homepage "https://github.com/satoken/dafs"
   url "https://github.com/satoken/dafs/archive/v0.0.3.tar.gz"
   version "0.0.3"
-  sha256 "3e0879fc59726354de49ea9dd6d67eb5382f63459d3fc3ede201801928d03515"
+  sha256 "d5fd0a3b7f1b789031651f0dd581f31c9a16bc3b2871cba1478e4f5848dd1d5d"
 
   depends_on "viennarna"
   depends_on "glpk"
