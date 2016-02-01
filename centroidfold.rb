@@ -1,9 +1,9 @@
 class Centroidfold < Formula
   desc "CentroidFold for predicting RNA secondary structures"
   homepage "https://github.com/satoken/centroid-rna-package"
-  url "https://github.com/satoken/centroid-rna-package/archive/v0.0.12.tar.gz"
-  version "0.0.12"
-  sha256 "de8f662f888ec264c7e7dd9536c23ddfe67e8b05626cb977def2dff0509509d4"
+  url "https://github.com/satoken/centroid-rna-package/archive/v0.0.13.tar.gz"
+  version "0.0.13"
+  sha256 "db9340c044d6ce1ecbad2a523011b5838de7594c671fefe8167873e818ef4466"
 
   depends_on "viennarna"
   depends_on "boost"
