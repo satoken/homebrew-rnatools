@@ -1,9 +1,9 @@
 class Ipknot < Formula
   desc "IPknot for predicting RNA pseudoknot structures using integer programming"
   homepage "https://github.com/satoken/ipknot"
-  url "https://github.com/satoken/ipknot/archive/v0.0.3.tar.gz"
-  version "0.0.3"
-  sha256 "a93e02ef4778f912738760fd7f8724b64be0158823393ea1b268d4d8fafc9e56"
+  url "https://github.com/satoken/ipknot/archive/v0.0.4.tar.gz"
+  version "0.0.4"
+  sha256 "103a718323052871217263c89875c31954765de014f6ed379cb274ea8044040d"
 
   depends_on "viennarna"
   depends_on "glpk"
